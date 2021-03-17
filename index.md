@@ -1,5 +1,5 @@
 ---
-title: BJ Contracting, home grown and family-owned!
+title: Home
 banner_image: "/uploads/2018/02/17/college-building.jpg"
 layout: landing-page
 heading: BJ Contracting, home grown and family-owned!
