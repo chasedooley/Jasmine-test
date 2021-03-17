@@ -3,28 +3,24 @@ title: Home
 banner_image: "/uploads/2018/02/17/college-building.jpg"
 layout: landing-page
 heading: BJ Contracting, home grown and family-owned!
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- heading: Bathrooms
+  description: We love bathrooms
+  icon: ''
+- heading: Painting
+  description: We do some painting stuff
+  icon: ''
+- heading: Remodeling
+  description: We do remodeling stuff
+  icon: ''
 sub_heading: We offer remodeling and carpentry services to Volusia County, FL.
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: We're BJ Contracting, a general contracting company that offers services
+  to Volusia County, FL.
 hero_button:
   text: Get a quote today!
   href: "/contact"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
